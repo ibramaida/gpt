@@ -10,7 +10,7 @@ import {
 } from "./containers";
 import { Navbar, CTA, Brand } from "./components";
 
-import "./app.css";
+import "./App.css";
 
 const App = () => {
   return (
